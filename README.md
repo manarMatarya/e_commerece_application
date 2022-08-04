@@ -1,16 +1,15 @@
-# e_commerece_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/47037203/182839750-c3026feb-eeb2-4608-8066-696dc16cd8a5.jpg)
+![2](https://user-images.githubusercontent.com/47037203/182839755-e2a69deb-f122-49fc-a96b-a07dcf73a452.jpg)
+![3](https://user-images.githubusercontent.com/47037203/182839757-bd798293-e41b-4694-9971-56ac1059c75f.jpg)
+![4](https://user-images.githubusercontent.com/47037203/182839761-1b55ebff-d32a-4236-a240-6105ba68cdab.jpg)
+![5](https://user-images.githubusercontent.com/47037203/182839764-31801340-64a6-4e49-912b-f6d8a46118b3.jpg)
+![6](https://user-images.githubusercontent.com/47037203/182839771-2ce31dc0-6fe8-4a42-ba2b-6c09d3e0ccd3.jpg)
+![7](https://user-images.githubusercontent.com/47037203/182839776-cdac1b61-dcc4-47e9-987c-cfe14626fcca.jpg)
+![8](https://user-images.githubusercontent.com/47037203/182839783-9a098d11-9c95-4d23-8304-b0d5d2ab02e3.jpg)
+![9](https://user-images.githubusercontent.com/47037203/182839785-a0fac871-7a9b-4861-90fb-4397faafc33a.jpg)
+![10](https://user-images.githubusercontent.com/47037203/182839788-35a0b751-76c1-43aa-8caa-5a6d482d6c8c.jpg)
+![11](https://user-images.githubusercontent.com/47037203/182839791-1cd03d4b-69c4-4e88-a16a-5f639e2bb767.jpg)
+![12](https://user-images.githubusercontent.com/47037203/182839793-0e465d0d-b89e-4ff9-9302-39df86ad9ee2.jpg)
+![13](https://user-images.githubusercontent.com/47037203/182839795-d242bc56-781f-4343-a8f1-56ef4034b631.jpg)
+![14](https://user-images.githubusercontent.com/47037203/182839798-d0197557-858e-45b2-b40d-4a577e169f5c.jpg)
+![15](https://user-images.githubusercontent.com/47037203/182839800-1879eaed-5703-420d-ac15-1f2ab2af6c04.jpg)
